@@ -12,7 +12,6 @@
 
 I'm **Jay Trivedi** — a software engineer, founder, and AI builder working at the intersection of **AI, full-stack products, cybersecurity, robotics, computer vision, and AI-powered finance systems**.
 
-> 💭 *I build things that think — from LLM agents and ML security tools to full-stack platforms and decision intelligence systems.*
 
 - 🏆 **3x Hackathon Winner**
 - 🧠 **Head of AI & AI Researcher @ Aerlync Labs**
