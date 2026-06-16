@@ -1,5 +1,4 @@
-# ⚡ Hey, I'm Jay 👋
-
+  # ⚡ Hey, I'm Jay 👋
   <img src="https://readme-typing-svg.demolab.com?
   font=JetBrains+Mono&weight=700&size=18&duration=2300&pause=650&color=00F5FF&vCenter=true&width=760&height=28&lines=Software+Engineer;Founder+of+Keystone+AI;AI+
   Builder;Cybersecurity+%2B+FinTech+%2B+Computer+Vision;3x+Hackathon+Winner" />
@@ -17,17 +16,20 @@
 
   ## 🌐 Connect
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-trivedi-
-  889b9b397/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaytrivsf@gmail.com)
+  <a href="https://www.linkedin.com/in/jay-trivedi-889b9b397/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jaytrivsf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
   ## 🚀 Featured Projects
 
-  - **[`ma-valuation-research-lab`](https://github.com/jaytrivediSF25/ma-valuation-research-lab)** — AI-powered research lab for valuation workflows, market
+  - **[ma-valuation-research-lab](https://github.com/jaytrivediSF25/ma-valuation-research-lab)** — AI-powered research lab for valuation workflows, market
   analysis, and finance intelligence.
-  - **[`Inversion-Attack-Evaluator`](https://github.com/jaytrivediSF25/Inversion-Attack-Evaluator)** — Security and ML privacy tooling for evaluating inversion
+  - **[Inversion-Attack-Evaluator](https://github.com/jaytrivediSF25/Inversion-Attack-Evaluator)** — Security and ML privacy tooling for evaluating inversion
   attacks and model leakage risk.
-  - **[`Fleet-Bridge`](https://github.com/jaytrivediSF25/Fleet-Bridge)** — Full-stack logistics/fleet coordination system connecting operations, data, and
+  - **[Fleet-Bridge](https://github.com/jaytrivediSF25/Fleet-Bridge)** — Full-stack logistics/fleet coordination system connecting operations, data, and
   automation.
 
   ## 🧰 Full Tech Stack
@@ -85,7 +87,3 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaytrivediSF25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
- 
-› Explain this codebase
- 
-  gpt-5.5 high · ~
