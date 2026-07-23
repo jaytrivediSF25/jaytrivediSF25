@@ -7,7 +7,6 @@ I'm **Jay Trivedi**, a software engineer, founder, and AI builder passionate abo
 
 - 🏆 3× Hackathon Winner
 - 🧠 Head of AI & AI Researcher at Aerlync Labs
-- 🚀 Founder of Keystone AI
 - 🔬 Building AI agents, LLM applications, production software, and security research
 - 💹 Interested in AI, financial markets, automation, quantitative finance, and decision intelligence
 
