@@ -1,9 +1,4 @@
 # ⚡ Hey, I'm Jay 👋
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2300&pause=650&color=00F5FF&vCenter=true&width=760&height=28&lines=Software+Engineer;Founder+of+Keystone+AI;AI+Builder;Cybersecurity+%2B+FinTech+%2B+Computer+Vision;3x+Hackathon+Winner" />
-</p>
-
 ---
 
 ## ⚡ About Me
